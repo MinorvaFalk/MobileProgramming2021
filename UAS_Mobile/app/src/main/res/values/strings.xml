@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS_Mobile</string>
+    <string name="def_username">uasmobile</string>
+    <string name="def_password">uasmobilegenap</string>
+    <string name="nama">Aurelius Ryo Wang</string>
+    <string name="nim">00000033031</string>
+    <string name="link1">https://stackoverflow.com</string>
+    <string name="link2">https://developer.android.com/reference</string>
+</resources>
